@@ -3,4 +3,4 @@ We study and recommend a new technology to realize super-resolution reconstructi
 # For training
 Please replace the SinGAN folder in the SinGAN-master with the MFCN folder and replace SR.py accordingly.
 # Acknowledgements
-This project is released under the MIT license. Our implementation is based on this implementation of the [SinGAN](https://github.com/tamarott/SinGAN) paper. Please also follow their licenses. Thanks for Dr.tamarott's great works.
+This project is released under the MIT license. Our implementation is based on this implementation of the [SinGAN](https://github.com/tamarott/SinGAN) paper. Thanks for Dr.tamarott's great works.
